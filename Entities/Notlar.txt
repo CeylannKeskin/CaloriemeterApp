@@ -1,0 +1,16 @@
+﻿AccountType = User
+
+Login Ekranı Kontrolü
+
+isActive = false ve PassivedTime + 30 gün <= bugünkü tarih
+
+Üyeliğinizi tekrar aktive etmek istiyor musunuz?
+
+isActive = false ve PassivedTime + 30 gün > bugünkü tarih
+
+Üyeliğiniz kalıcı olarak silinmiştir. Lütfen farklı bir mail adresiyle hesap oluşturun.
+
+
+UserPanel ekranında gelen kullanıcının cinsiyetine göre soldaki picturebox değişecek.
+
+GetActivityStatus metodu combobox'a düzgün gelmiyor. Kontrol et.
